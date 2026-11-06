@@ -27,13 +27,10 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🫁 [**agent**](https://github.com/siliconserver/agent) | Fitness and qualification tracking for breathing apparatus wearers (*Atemschutz-Geräteträger-Eignungs- & Nachweis-Tool*) | Python |
-| 📒 [**fire-elite**](https://github.com/siliconserver/fire-elite) | Personal incident and activity logbook for firefighters | Python |
-| 📊 [**einsatzstatistik**](https://github.com/siliconserver/einsatzstatistik) | Database and Grafana dashboards for fire department incidents | Shell · Grafana |
-| 🦺 [**uvv-unterweisungen**](https://github.com/siliconserver/uvv-unterweisungen) | Online tool for mandatory safety briefings (UVV) | Python |
-| 📅 [**event-tracker**](https://github.com/siliconserver/event-tracker) | Tracking and managing events | Python |
-| 🤖 [**ansible**](https://github.com/siliconserver/ansible) | My Ansible playbooks and roles | Ansible · Jinja |
-| 🐳 [**docker-container**](https://github.com/siliconserver/docker-container) | Docker Compose setups for my homelab | Docker · Shell |
+| 🫁 [**agent**](https://github.com/siliconserver/agent) | Fitness and qualification tracking for breathing apparatus wearers (*Atemschutz-Geräteträger-Eignungs- & Nachweis-Tool*) | FastAPI | Python |
+| 📒 [**fire-elite**](https://github.com/siliconserver/fire-elite) | Personal incident and activity logbook for firefighters | FastAPI | Python |
+| 🦺 [**uvv-unterweisungen**](https://github.com/siliconserver/uvv-unterweisungen) | Online tool for mandatory safety briefings (UVV) | FastAPI | Python |
+| 📅 [**event-tracker**](https://github.com/siliconserver/event-tracker) | Tracking and managing events | FastAPI | Python |
 
 ### 🛠️ Tech stack
 

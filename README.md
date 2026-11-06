@@ -1,8 +1,9 @@
 <h1 align="center">Hi, ich bin Christian 👋</h1>
 
 <p align="center">
-  <b>Feuerwehr-Tools · Homelab · Automatisierung</b><br>
-  Ich baue kleine, praktische Werkzeuge für den Feuerwehralltag und betreibe mein eigenes Homelab.
+  <b>Head of Data Services Operations @ 1&amp;1 Mail &amp; Media</b><br>
+  Feuerwehr-Tools · Homelab · Automatisierung<br><br>
+  Ich automatisiere gern alles Mögliche, im Job wie privat. Nebenbei baue ich praktische Werkzeuge für den Feuerwehralltag und betreibe mein eigenes Homelab.
 </p>
 
 <p align="center">
@@ -14,9 +15,10 @@
 
 ### 🚒 Woran ich arbeite
 
+- 💼 **Beruf**: Head of Data Services Operations bei **1&1 Mail & Media**
 - 🔥 **Feuerwehr-Software**: Tools, die Papierkram ersetzen, von Einsatzstatistik bis Atemschutz-Nachweis
 - 🏠 **Homelab**: Server, Container und Dashboards, alles als Code
-- ⚙️ **Automatisierung** mit Ansible und Docker Compose, damit nichts von Hand konfiguriert werden muss
+- ⚙️ **Automatisierung**: Was sich automatisieren lässt, wird automatisiert, am liebsten mit Ansible und Docker Compose
 
 ### 📌 Ausgewählte Projekte
 

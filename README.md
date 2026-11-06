@@ -19,6 +19,7 @@
 - 💼 **Day job**: Head of Data Services Operations at **1&1 Mail & Media**
 - ⚙️ **Automation**: If it can be automated, it will be, preferably with Ansible
 - 🐳 **Containers**: Everything runs in Docker, defined in Compose files and kept as code
+- 🚒 **Volunteer firefighter**: *Löschmeister* (crew commander) at the Freiwillige Feuerwehr Wörth am Rhein, where I look after the website and email, the drone unit and breathing apparatus for the Wörth station
 - 🏠 **Homelab**: Servers, containers and dashboards, all reproducible
 - 🚒 **Fire department software**: Tools that replace paperwork, from incident statistics to breathing apparatus records
 
